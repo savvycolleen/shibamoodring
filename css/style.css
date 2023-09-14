@@ -1,0 +1,28 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  height: 500px; 
+  padding: 30px; 
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+body{
+  font-family: 'Josefin Sans', 'Lato', 'Libre Baskerville', 'Open Sans', sans-serif;
+  text-align: center
+}
