@@ -2,7 +2,7 @@
 document.querySelector('button').addEventListener('click', getFetch)
 
 function getFetch(){
-  const url = "http://shibe.online/api/shibes?count=[1-100]"
+  const url = "https://shibe.online/api/shibes?count=[1-100]"
 
   fetch(url)
       .then(res => res.json()) // parse response as JSON
