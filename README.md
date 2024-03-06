@@ -3,7 +3,7 @@ The best way to read your mood.
 
 **Link to project:** [Shiba Mood Ring](https://savvycolleen.github.io/shibamoodring/)
 
-![image of site](images/img1.png)
+![image of site](img1.png)
 
 ## How It's Made:
 
